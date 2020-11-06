@@ -6,7 +6,7 @@ It has the options to choose to start with either O or X, as well as difficulty 
 
 ## The GUI:
 
-![TicTacoe](/Images/Untitled.png)
+![TicTacoe](/Images/TicTacToeGUI.png)
 
 ## Difficulty
 ### Easy
