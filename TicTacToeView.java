@@ -87,7 +87,7 @@ public class TicTacToeView extends Application
 		chooseOButton = new MaxSizeButton("Start as O");
 		gamefield.add(chooseOButton, 1, 4);
 		
-		/* Equals Button */
+		/* New Game Button */
 		HBox newGameBox = new HBox();
 		newGameButton = new MaxSizeButton("Please Select a Difficulty to Start Game");
 		newGameBox.getChildren().add(newGameButton);
